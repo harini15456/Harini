@@ -1,5 +1,5 @@
-# Harini
-Bharat Intern Tasks
+
+# Bharat Intern Tasks
 Bharat-Intern-Data-Science-virtual-Internship:- It is a Data Science Internship at Bharat Intern where I have performed two tasks.
 
 Tasks which I have performed in this Internship:-
